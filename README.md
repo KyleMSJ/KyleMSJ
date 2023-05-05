@@ -18,7 +18,7 @@ Some programming languages with which I had contact:
 - Kotlin (basic/intermediate - AndroidStudio) 📱
 - SQL (familiar with the syntax, main use: queries on SQL Server, know a little about procedures, triggers and views) 🏦
 
-**Currently studying: HTML, CSS, and Kotlin**
+Currently studying: <a href="https://www.alura.com.br/">HTML, CSS, and Kotlin
 
 
 <div>
