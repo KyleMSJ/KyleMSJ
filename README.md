@@ -3,11 +3,9 @@
 
 I'm a curious person and passionate about the universe of technology. 
 
-Always trying to learn something new and also adept at "lifelong learning" concept.
+Always trying to learn something new through courses, books, podcasts, mentoring and research, mainly related to: programming, personal development and neuroscience, and also adept at "lifelong learning" concept.
 
 Currently graduating in Computer Engineering at IFSP, where I was able to obtain repertoire and knowledge in several tools and concepts in the area, and that I seek to delve into in which I have greater affinity, such as: *Networks*, *Data Science*, *AI*, *Economics*, *Entrepreneurship* and *Software Development*.
-
-I'm constantly learning through courses, books, podcasts, mentoring and research, mainly related to: programming, personal development and neuroscience.
 
 (*Oh, I also work selling brownies and brigadeiros 😋 - contacts below*)
 
