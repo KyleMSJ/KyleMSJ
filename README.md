@@ -23,8 +23,8 @@ Currently studying: <a href="https://www.alura.com.br/">HTML, CSS, and Kotlin
 
 <div>
   <a href="https://github.com/KyleMSJ">
-  <img height="200em" src=https://github-readme-stats.vercel.app/api?username=KyleMSJ&theme=transparent&show_icons=true> 
-  <img height="200em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=KyleMSJ&size_weight=0.5&count_weight=0.5&theme=transparent>
+  <img height="200em" src=https://github-readme-stats-sigma-five.vercel.app/api?username=KyleMSJ&theme=transparent&show_icons=true> 
+  <img height="200em" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KyleMSJ&size_weight=0.5&count_weight=0.5&theme=transparent>
 </div>
 
 # Main languages / tools
