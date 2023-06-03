@@ -1,6 +1,5 @@
 ### Hey there 🤙🏽 
 
-
 I'm a curious person and passionate about the universe of technology. 
 
 Always trying to learn something new through courses, books, podcasts, mentoring and research, mainly related to: programming, personal development and neuroscience, and also adept at "lifelong learning" concept.
@@ -46,3 +45,5 @@ Currently studying: <a href="https://www.alura.com.br/">HTML, CSS, and Kotlin
     <a href="mailto:caiomarcelosj3@gmail.com target="_blank"" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/caio-marcelo-da-silva-de-jesus/ target="_blank"" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
+  
+  # Other projects: [Portfolio](https://kylemsj.github.io/Portfolio/)
