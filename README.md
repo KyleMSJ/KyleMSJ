@@ -11,7 +11,7 @@ Currently graduating in Computer Engineering at IFSP, where I was able to obtain
 
 Some programming languages with which I had contact:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (Machine Learning and Compilers) 🧠
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (RPA, Machine Learning and Compilers) 🤖
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) (introduction to algorithms, logic and some use on microcontrollers) 🎛
 
@@ -29,8 +29,9 @@ Some programming languages with which I had contact:
 
 Currently studying: 
 <ul>
-    <li><a href="https://www.alura.com.br/"> Front-End Development and SQL Server</li>
-    <li><a href="https://web.dio.me/home"> Mobile Android using Kotlin</li>
+    <li> Mobile Development - Kotlin </li>
+    <li> RPA - Blue Prism and Python </li>
+    <li><a href="https://web.dio.me/home"> Data Analytics - Power BI</li>
 </ul>
 
 ## Contacts
